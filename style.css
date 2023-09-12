@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(189, 128, 71);
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-decoration: underline;
+    
+}
+img{
+    padding-left: 500px;
+}   
+#last{
+    text-align: center;
+}
